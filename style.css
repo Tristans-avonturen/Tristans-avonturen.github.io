@@ -1,6 +1,7 @@
 body {
     background-image: url(Trial_Chamber.jpg);
     background-attachment: fixed;
+    backgronud-size: cover;
 }
 header {
     background-color: white;
